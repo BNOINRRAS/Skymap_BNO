@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/mousecontrollericon.png</file>
+        <file>images/ProjectionOnly.png</file>
+        <file>images/ProjectionOnly2.png</file>
+        <file>images/ProjectionOnly3.png</file>
+    </qresource>
+</RCC>
